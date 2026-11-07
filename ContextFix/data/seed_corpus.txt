@@ -1,0 +1,130 @@
+# Extra training sentences that teach the language model the easily-confused words.
+# One sentence per line. Lines starting with # are ignored. Add your own sentences here!
+He is taller than his brother.
+This book is better than that one.
+I would rather walk than drive.
+It is easier than it looks.
+She is more careful than I am.
+More people came than we expected.
+First we eat, then we leave.
+She finished her work and then went home.
+If it rains, then we will stay inside.
+We looked at the menu and then ordered lunch.
+Rather than wait, we left early.
+Nothing is worse than losing a friend.
+The dog wagged its tail.
+The cat chased its toy.
+The company announced its results on Monday.
+The book lost its cover.
+Each country has its own culture.
+The team did its best to win.
+It's a beautiful day today.
+It's been a long time since we met.
+I think it's going to rain tonight.
+It's important to sleep well.
+Let me know if it's too late.
+They love their friends.
+Their house is very big.
+The students submitted their assignments.
+She went with their parents to the park.
+We met their neighbours yesterday.
+There is a book on the table.
+There are many reasons to be happy.
+Put the box over there.
+I was there when it happened.
+They're going to the store.
+I know they're happy about it.
+They're planning to present their research.
+Your car is parked outside.
+Is this your book?
+Thank you for your help.
+You're going to love it.
+I think you're right about this.
+You're welcome to stay with us.
+I want to go home.
+He went to the store to buy milk.
+She is going to college.
+We are going to the market.
+It was too long for me.
+She is too tired to walk.
+The test was too difficult.
+That is way too much money.
+I ate too much food at lunch.
+He was too late to catch the bus.
+I want to come too.
+I have two brothers and two sisters.
+The weather will affect our plans.
+The medicine had a positive effect on him.
+Stress can affect your health.
+The effect was immediate.
+I accept your offer.
+Everyone except him came to the party.
+She will accept the award tomorrow.
+Do not lose your keys.
+We might lose the game.
+The screw is loose.
+She wore a loose shirt.
+Whose bag is this?
+Who's coming to dinner tonight?
+The boy whose dog ran away is crying.
+Who's there at the door?
+The principal of the school spoke to the students.
+It is a matter of principle.
+The main principle is very simple.
+The principal reason is cost.
+We were happy to see them.
+They were late again.
+Where are you going now?
+I know where he lives.
+We're ready to start the meeting.
+We're going home after lunch.
+The weather is nice today.
+I wonder whether he will come.
+Whether or not you agree, we will go.
+Bad weather delayed the flight.
+Please be quiet in the library.
+It was quite good, I think.
+She is quite tall for her age.
+We found a quiet place to study.
+A cup of tea would be lovely.
+He turned off the light.
+Take off your shoes at the door.
+Most of the students passed the exam.
+One of them is missing.
+I can hear you clearly.
+Come here and sit down.
+I hear music from the next room.
+She is here to help us.
+I need your advice about the job.
+He gave me good advice.
+I advise you to wait a little.
+She doesn't like cold coffee.
+He doesn't know the answer.
+They don't care about the result.
+I don't think that is right.
+We didn't see the movie.
+I can't find my phone.
+It wasn't easy to finish.
+She goes to school by bus.
+He has a new bicycle.
+He doesn't like the movie because it was too long.
+This is better than that, and the cat chased its toy.
+I received the book yesterday and it was definitely good.
+She goes to an apple store with their friends.
+I am going to college this year.
+You're going to enjoy the show.
+Whose turn is it to wash the dishes?
+Whose book is this on the table?
+Whose idea was it to come here?
+Whose fault is it anyway?
+I wonder whose keys these are.
+Whose car is parked outside?
+The woman whose house burned down was very sad.
+Who's going to help me with this?
+Who's your favorite player?
+Who's been sitting in my chair?
+Tell me who's coming to the party.
+The weather was cold and the wind was strong.
+We walked to the library and asked the librarian for a new story.
+She borrowed a book from the library on Monday.
+The library opens at nine in the morning.
